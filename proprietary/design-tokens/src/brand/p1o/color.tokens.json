@@ -1,12 +1,167 @@
 {
   "p1o": {
     "color": {
-      "blue": {
-        "50": { "value": "cornflowerblue" }
+      "white": {
+        "value": "#ffffff",
+        "type": "color"
       },
-      "grey": {
-        "100": { "value": "white" },
-        "0": { "value": "black" }
+      "black": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "grijs": {
+        "100": {
+          "value": "#e5e9ea",
+          "type": "color",
+          "description": "Grijs tint 2"
+        },
+        "300": {
+          "value": "#bdc6c9",
+          "type": "color",
+          "description": "Grijs tint 1"
+        },
+        "500": {
+          "value": "#5e6568",
+          "type": "color",
+          "description": "Grijs basiskleur"
+        },
+        "600": {
+          "value": "#4b5053",
+          "type": "color",
+          "description": "Grijs; \n+8% donkerder dmv sass darken() functie"
+        }
+      },
+      "rood": {
+        "100": {
+          "value": "#f9dfdd",
+          "type": "color",
+          "description": "Rijkshuisstijl rood tint 2"
+        },
+        "300": {
+          "value": "#f2bfbc",
+          "type": "color",
+          "description": "Rijkshuisstijl rood tint 1"
+        },
+        "500": {
+          "value": "#d52b1e",
+          "type": "color",
+          "description": "Rijkshuisstijl rood basiskleur"
+        },
+        "600": {
+          "value": "#b12419",
+          "type": "color",
+          "description": "Rijkshuisstijl rood; \n+8% donkerder dmv sass darken() functie"
+        }
+      },
+      "oranje": {
+        "100": {
+          "value": "#fbead9",
+          "type": "color",
+          "description": "Rijkshuisstijl oranje tint 2"
+        },
+        "300": {
+          "value": "#f6d4b3",
+          "type": "color",
+          "description": "Rijkshuisstijl oranje tint 1"
+        },
+        "500": {
+          "value": "#e17000",
+          "type": "color",
+          "description": "Rijkshuisstijl oranje basiskleur"
+        }
+      },
+      "groen": {
+        "100": {
+          "value": "#e1eddb",
+          "type": "color",
+          "description": "Rijkshuisstijl groen tint 2"
+        },
+        "300": {
+          "value": "#c4dbb6",
+          "type": "color",
+          "description": "Rijkshuisstijl groen tint 1"
+        },
+        "500": {
+          "value": "#39870c",
+          "type": "color",
+          "description": "Rijkshuisstijl groen basiskleur"
+        },
+        "525": {
+          "value": "#357f0a",
+          "type": "color",
+          "description": "Contrastkleur voor op lichtblauwe achtergrond."
+        },
+        "600": {
+          "value": "#296209",
+          "type": "color",
+          "description": "Rijkshuisstijl groen; \n+8% donkerder dmv sass darken() functie"
+        }
+      },
+      "hemelblauw": {
+        "50": {
+          "value": "#f0faff",
+          "type": "color",
+          "description": "Mistblauw - zeer lichte tint van rijkshuisstijl hemelblauw."
+        },
+        "100": {
+          "value": "#d9ebf7",
+          "type": "color",
+          "description": "Rijkshuisstijl hemelblauw tint 2"
+        },
+        "300": {
+          "value": "#b3d7ee",
+          "type": "color",
+          "description": "Rijkshuisstijl hemelblauw tint 1"
+        },
+        "500": {
+          "value": "#007bc7",
+          "type": "color",
+          "description": "Rijkshuisstijl hemelbauw"
+        },
+        "525": {
+          "value": "#0074bd",
+          "type": "color",
+          "description": "Rijkshuisstijl hemelblauw;\ntint donkerder voor contrast bij gebruik op lichtblauwe achtergrond"
+        },
+        "600": {
+          "value": "#00629e",
+          "type": "color",
+          "description": "Rijkshuisstijl hemelblauw; \n+8% donkerder dmv sass darken() functie"
+        }
+      },
+      "donkergeel": {
+        "100": {
+          "value": "#fff4db",
+          "type": "color",
+          "description": "Rijkshuisstijl donkergeel tint 2"
+        },
+        "300": {
+          "value": "#ffe9b8",
+          "type": "color",
+          "description": "Rijkshuisstijl donkergeel tint 1"
+        },
+        "400": {
+          "value": "#ffd372",
+          "type": "color",
+          "description": "Focusgeel voor interactieve elementen"
+        },
+        "500": {
+          "value": "#ffb612",
+          "type": "color",
+          "description": "Rijkshuisstijl donkergeel"
+        }
+      },
+      "purper": {
+        "500": {
+          "value": "#884488",
+          "type": "color",
+          "description": "Purper basiskleur"
+        },
+        "600": {
+          "value": "#6d366d",
+          "type": "color",
+          "description": "Purper; \n+8% donkerder dmv sass darken() functie"
+        }
       }
     }
   }
