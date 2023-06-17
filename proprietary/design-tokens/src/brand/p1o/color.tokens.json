@@ -1,11 +1,11 @@
 {
   "p1o": {
     "color": {
-      "white": {
+      "wit": {
         "value": "#ffffff",
         "type": "color"
       },
-      "black": {
+      "zwart": {
         "value": "#000000",
         "type": "color"
       },
