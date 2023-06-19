@@ -1,8 +1,6 @@
 {
-  "p1o": {
-    "button": {
-      "background-color": { "value": "{p1o.color.hemelblauw.500}" },
-      "color": { "value": "{p1o.color.wit}" }
-    }
+  "button": {
+    "background-color": { "value": "{p1o.color.hemelblauw.500}" },
+    "color": { "value": "{p1o.color.wit}" }
   }
 }
