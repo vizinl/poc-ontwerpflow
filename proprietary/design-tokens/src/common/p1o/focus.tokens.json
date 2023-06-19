@@ -1,5 +1,7 @@
 {
-  "focus": {
-    "outline-offset": { "value": "2px" }
+  "p1o": {
+    "focus": {
+      "outline-offset": { "value": "2px" }
+    }
   }
 }
